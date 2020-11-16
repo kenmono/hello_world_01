@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # รัฏชพล ปุกคำ
 # 620510660
-# Lab 05
+# Lab 06
 # Problem 1
 # 204113 Sec 002
 import time
